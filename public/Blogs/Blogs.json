@@ -1,0 +1,93 @@
+[
+       {
+         "recipe_id": 1,
+         "recipe_name": "Grilled Chicken Basil",
+         "recipe_image": "https://images.unsplash.com/photo-1627308595229-7830a5c91f9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDV8fGNoaWNrZW58ZW58MHx8fHwxNjc3NDQ2Njk5&ixlib=rb-1.2.1&q=80&w=400",
+         "short_description": "A delicious grilled chicken recipe with a hint of basil.",
+         "ingredients": [
+           "550 g chicken",
+           "120 ml soy sauce",
+           "200 g basil leaf",
+           "50 ml olive oil",
+           "2 cloves garlic"
+         ],
+         "preparing_time": "30 min",
+         "calories": "320 calories"
+       },
+       {
+         "recipe_id": 2,
+         "recipe_name": "Spaghetti Carbonara",
+         "recipe_image": "https://images.unsplash.com/photo-1588013273468-315fd88ea34c?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+         "short_description": "Classic Italian pasta with creamy sauce and bacon.",
+         "ingredients": [
+           "200 g spaghetti",
+           "100 g pancetta",
+           "2 large eggs",
+           "50 g grated Parmesan",
+           "2 cloves garlic"
+         ],
+         "preparing_time": "20 min",
+         "calories": "500 calories"
+       },
+       {
+         "recipe_id": 3,
+         "recipe_name": "Vegetable Stir-fry",
+         "recipe_image": "https://images.unsplash.com/photo-1543826173-cfe2ca17577d?q=80&w=2034&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+         "short_description": "Healthy vegetable stir-fry with soy sauce and sesame.",
+         "ingredients": [
+           "1 bell pepper",
+           "1 carrot",
+           "100 g broccoli",
+           "120 ml soy sauce",
+           "1 tbsp sesame oil"
+         ],
+         "preparing_time": "15 min",
+         "calories": "180 calories"
+       },
+       {
+         "recipe_id": 4,
+         "recipe_name": "Beef Tacos",
+         "recipe_image": "https://images.unsplash.com/photo-1640983743761-4f0e0204bc58?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+         "short_description": "Mexican-style tacos with seasoned ground beef and fresh toppings.",
+         "ingredients": [
+           "250 g ground beef",
+           "8 taco shells",
+           "50 g lettuce",
+           "100 g grated cheese",
+           "50 g sour cream"
+         ],
+         "preparing_time": "25 min",
+         "calories": "450 calories"
+       },
+       {
+         "recipe_id": 5,
+         "recipe_name": "Mushroom Risotto",
+         "recipe_image": "https://plus.unsplash.com/premium_photo-1695240028448-9a8bf3e164f5?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+         "short_description": "Creamy risotto with mushrooms and Parmesan cheese.",
+         "ingredients": [
+           "400 g mushrooms",
+           "300 g Arborio rice",
+           "100 g Parmesan cheese",
+           "1 onion",
+           "1 liter vegetable stock"
+         ],
+         "preparing_time": "35 min",
+         "calories": "370 calories"
+       },
+       {
+         "recipe_id": 6,
+         "recipe_name": "Avocado Toast",
+         "recipe_image": "https://plus.unsplash.com/premium_photo-1676106623583-e68dd66683e3?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+         "short_description": "Healthy avocado toast with a sprinkle of chili flakes and lemon.",
+         "ingredients": [
+           "1 ripe avocado",
+           "2 slices whole grain bread",
+           "1 tsp lemon juice",
+           "Pinch of chili flakes",
+           "Salt to taste"
+         ],
+         "preparing_time": "10 min",
+         "calories": "220 calories"
+       }
+     ]
+     
